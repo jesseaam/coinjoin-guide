@@ -9,7 +9,7 @@
 
 ## 🛡 Using Coinjoin
 
-* [Overview](using-conjoin/overview.md)
+* [Overview](using-coinjoin/overview.md)
 * [What you need](using-coinjoin/what-you-need.md)
 * [Using CoinJoin](using-conjoin/using-coinjoin.md)
 
